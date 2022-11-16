@@ -1,0 +1,13 @@
+﻿  ConsoleApplication12.cpp
+C:\Users\270010732\source\repos\ConsoleApplication12\ConsoleApplication12.cpp(100,13): error C2181: illegal else without matching if
+C:\Users\270010732\source\repos\ConsoleApplication12\ConsoleApplication12.cpp(182,31): error C2065: 'line': undeclared identifier
+C:\Users\270010732\source\repos\ConsoleApplication12\ConsoleApplication12.cpp(184,29): error C2065: 'line': undeclared identifier
+C:\Users\270010732\source\repos\ConsoleApplication12\ConsoleApplication12.cpp(187,9): error C2672: 'getline': no matching overloaded function found
+C:\Users\270010732\source\repos\ConsoleApplication12\ConsoleApplication12.cpp(187,215): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 24 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\string(81): message : see declaration of 'std::getline'
+C:\Users\270010732\source\repos\ConsoleApplication12\ConsoleApplication12.cpp(187,215): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 24 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\string(75): message : see declaration of 'std::getline'
+C:\Users\270010732\source\repos\ConsoleApplication12\ConsoleApplication12.cpp(187,215): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 24 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\string(69): message : see declaration of 'std::getline'
+C:\Users\270010732\source\repos\ConsoleApplication12\ConsoleApplication12.cpp(187,215): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 24 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\string(26): message : see declaration of 'std::getline'
